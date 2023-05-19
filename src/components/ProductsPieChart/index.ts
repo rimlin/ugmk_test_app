@@ -1,0 +1,1 @@
+export { ProductsPieChart } from './ProductsPieChart';

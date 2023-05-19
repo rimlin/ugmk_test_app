@@ -1,0 +1,1 @@
+export { shortMonths } from './months';
